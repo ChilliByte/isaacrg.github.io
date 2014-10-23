@@ -1,19 +1,24 @@
 ---
 layout: page
-title: About Pixyll
-permalink: /about/
+title: About
+published: true
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+This is the website of Isaac Reid-Guest, a Developer and Designer, based in the UK.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+- Coding sites
+	- [Github](http://github.com/isaacrg)
+	- [Bitbucket](http://bitbucket.org/isaacrg)
+	- [Codepen](http://codepen.io/isaacrg/)
+- Social sites
+	- [Twitter](http://twitter.com/isaacreidguest)
+	- [Tumblr](http://isaacreidguest.tumblr.com/)
+	- <a rel="author" href="https://plus.google.com/+IsaacReidGuest?rel=author">Google+</a>
+- Oh, and I am also on [Trello](https://trello.com/isaacrg).
+	
+**The site is on:**
 
-Thanks to the following:
+- [Github](https://github.com/isaacrg/isaacrg.github.io/)
+- [Travis CI](https://travis-ci.org/isaacrg/isaacrg.github.io)
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+[![Build Status](https://travis-ci.org/isaacrg/isaacrg.github.io.svg?branch=master)](https://travis-ci.org/isaacrg/isaacrg.github.io)
