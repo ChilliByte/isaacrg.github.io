@@ -20,5 +20,3 @@ This is the website of Isaac Reid-Guest, a Developer and Designer, based in the 
 
 - [Github](https://github.com/isaacrg/isaacrg.github.io/)
 - [Travis CI](https://travis-ci.org/isaacrg/isaacrg.github.io)
-
-[![Build Status](https://travis-ci.org/isaacrg/isaacrg.github.io.svg?branch=master)](https://travis-ci.org/isaacrg/isaacrg.github.io)
