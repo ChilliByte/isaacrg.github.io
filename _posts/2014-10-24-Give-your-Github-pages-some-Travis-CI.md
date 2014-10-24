@@ -14,4 +14,6 @@ before_install:
 script: jekyll build --safe
 ```
 
+---
+
 This was also posted on Github [Gist](https://gist.github.com/isaacrg/899139a72dace90bc730).
