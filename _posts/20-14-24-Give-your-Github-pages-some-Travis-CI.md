@@ -13,3 +13,5 @@ before_install:
 - travis_retry gem install kramdown
 script: jekyll build --safe
 ```
+
+This was also posted on Github [Gist](https://gist.github.com/isaacrg/899139a72dace90bc730).
