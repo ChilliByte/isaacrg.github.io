@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-description: A
+description: A cool app, making your tablet become a smart TV...
 ---
 
 *Update: This app is no longer available.*
