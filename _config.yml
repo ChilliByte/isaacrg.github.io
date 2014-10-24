@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://isaacrg.me/"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-38333068-1
 
 # Optional features
 animated:           false
