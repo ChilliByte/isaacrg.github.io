@@ -4,17 +4,26 @@ published: true
 description: A fast and reliable language, which compiles to C.  
 ---
 
-Nimrod is a line
+[Nimrod](http://nimrod-lang.org/) is a programming language which, through compilation to C, can generate small executables which don't require any dependencies, making it an ideal language for producing distributable applications. Most notably, it has its own package manager, Nimble, and Sinatra-esque web server framework, [Jester](https://github.com/dom96/jester/).
+
+
+Here is an example web server, with Jester and Nimrod.
+
 
 {% highlight nimrod %}
-# compute average line length
-var count = 0
-var sum = 0
+# myapp.nim
+import jester, strtabs, htmlgen
 
-for line in stdin.lines:
-  count += 1
-  sum += line.len
+get "/":
+  resp h1("Hello world")
 
-echo "Average line length: ",
-  if count > 0: sum / count else: 0
+get "/hello/@name?":
+  # This will match what the previous code example matches but will also match
+  # "/hello/".
+  if @"name" == "":
+    resp "No name received :("
+  else:
+    resp "Hello " & @"name"
+
+run()
 {% endhighlight %}
