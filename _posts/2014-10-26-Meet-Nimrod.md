@@ -18,8 +18,7 @@ get "/":
   resp h1("Hello world")
 
 get "/hello/@name?":
-  # This will match what the previous code example matches but will also match
-  # "/hello/".
+  # Matches "/hello/" and "/hello/<anything>".
   if @"name" == "":
     resp "No name received :("
   else:
