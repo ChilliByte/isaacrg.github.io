@@ -22,4 +22,4 @@ And then there is yet another problem — scrolling. Depending on the implem
 
 PJAX is a terrific idea, I applaud implementations of it on some sites — GitHub most notably, but the urge to jump to JS magic tricks for every site is ridiculous. Consideration for speed through efficiency is a wiser idea than trying to find a library for it.
 
-*Also posted on [Medium](https://medium.com/@isaacreidguest/pjax-is-the-wrong-approach-817e31960fdc)*
+*Also posted on [Medium](https://medium.com/@isaacreidguest/pjax-is-the-wrong-approach-817e31960fdc).*
