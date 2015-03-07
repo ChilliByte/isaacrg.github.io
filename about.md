@@ -14,7 +14,7 @@ This is the website of Isaac Reid-Guest, a Developer and Designer, based in the 
 	- [Twitter](http://twitter.com/isaacreidguest)
 	- [Tumblr](http://isaacreidguest.tumblr.com/)
 	- <a rel="author" href="https://plus.google.com/+IsaacReidGuest?rel=author">Google+</a>
-- Oh, and I am also on [Trello](https://trello.com/isaacrg/recommend) virtual whiteboard thingy, as @isaacrg.
+- Oh, and I am also on [Trello](https://trello.com/isaacrg) virtual whiteboard thingy, as @isaacrg.
 
 I am also an occasionally active commenter on the [*Guardian*](https://profile.theguardian.com/user/id/11693340) website.
 
