@@ -14,7 +14,7 @@ A number of sites are taking up the usage of a technology known as PJAX(Push-Sta
 
 Explanation via [pjax.herokuapp.com](http://pjax.herokuapp.com)
 
-Fundamentally, a relatively small is required for PJAX, which in turn listens for clicks on any anchor tag on the page. This already starts to slow down certain browsers, notably IE and mobile.
+Fundamentally, a relatively small JS library is required for PJAX, which in turn listens for clicks on any anchor tag on the page. This already starts to slow down certain browsers, notably IE and mobile.
 
 Then, the script decides whether to try PJAX, or redirect the user to the page forcibly, and even then, that isn’t always successful.
 
