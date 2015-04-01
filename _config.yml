@@ -4,7 +4,7 @@ email:       isaac.reid.guest@gmail.com
 author:      Isaac Reid-Guest
 description: "An ocassional web outpost of Isaac Reid-Guest."
 baseurl:     ""
-url:         "http://isaacrg.me/"
+url:         "http://isaacrg.me"
 
 # Google analytics
 google_analytics: UA-38333068-1
