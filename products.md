@@ -3,7 +3,7 @@ title: Stuff I sell
 layout: page
 ---
 
-I make the odd thing, as shown below.
+<p>I make the odd thing, as shown below.</p>
 
 ### Simple Forum
 
