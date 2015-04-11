@@ -1,6 +1,6 @@
 ---
 title: Stuff I sell
-layout: default
+layout: page
 ---
 
 I make the odd thing, as shown below.
