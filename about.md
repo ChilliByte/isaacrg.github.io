@@ -31,4 +31,4 @@ This is the website of Isaac Reid-Guest, a Developer and Designer, based in the 
 **The site is on:**
 
 - [Github](https://github.com/isaacrg/isaacrg.github.io/)
-- [Travis CI](https://travis-ci.org/isaacrg/isaacrg.github.io) [How?](http://isaacrg.me/2014/10/24/Give-your-Github-pages-some-Travis-CI/)
+- [Travis CI](https://travis-ci.org/isaacrg/isaacrg.github.io)  (*[How?](http://isaacrg.me/2014/10/24/Give-your-Github-pages-some-Travis-CI/)*)
