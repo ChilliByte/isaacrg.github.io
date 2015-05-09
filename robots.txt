@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /isaacrg-14-10-13/
