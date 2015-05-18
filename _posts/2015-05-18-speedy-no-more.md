@@ -52,6 +52,7 @@ Or you could even go for [Opera 12][op12]. Opera 12 was very, very fast, had tab
 
 *I am a regular user of Opera, and occasionally Opera 12.*
 
+*Also posted on [Medium](https://medium.com/@isaacreidguest/speedy-no-more-b95ead20a609).*
 
 [google-chrome]: http://google.com/chrome "Google Chrome web browser"
 [opera]: http://www.opera.com/ "Opera web browser"
