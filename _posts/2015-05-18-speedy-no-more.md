@@ -41,16 +41,17 @@ So, solutions for this problem?
 * [The Great Suspender][extension]
 * [A different browser][pick-browser]
 * [Fewer tabs][fewer-tabs]
- * I don't manage it.
- * Also [see this][fewer-tabs-tweet].
+  * I don't manage it.
+  * Also [see this][fewer-tabs-tweet].
 * [Wait for the fruits of this project by Opera and Google][wait]
- * This project aims to reduce Chromium's memory consumption, and introducing tab hibernation.
- * This project will eventually result in improvements in  Chromium, Opera, and Google Chrome.
+  * This project aims to reduce Chromium's memory consumption, and introducing tab hibernation.
+  * This project will eventually result in improvements in  Chromium, Opera, and Google Chrome.
 
 Or you could even go for [Opera 12][op12]. Opera 12 was very, very fast, had tab hibernation, low RAM requirements, and could handle literally hundreds of tabs with no trouble. This might not neccesarily be the most secure, but appraently [isn't affected by heartbleed][op12-heartbleed].
 
 ----
 
+*I am a regular user of Opera, and occasionally Opera 12.*
 
 
 [google-chrome]: http://google.com/chrome "Google Chrome web browser"
