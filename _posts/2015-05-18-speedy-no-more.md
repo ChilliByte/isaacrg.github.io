@@ -13,8 +13,8 @@ For some time now, Chrome has grown a reputation for being a heavy consumer of R
 
 But the reason I come to writing this, is because I have met a point of great frustration. This happened.
 
-> *Last week, my colleague Owen wrote a compelling piece on why he’s breaking up with Chrome, but while I understood his reasons, I wasn’t quite ready to split. That’s why I was delighted to discover The Great Suspender.*
-> Via [This Chrome extension stopped the browser killing my computer][article-tnw-1]
+> Last week, my colleague Owen wrote a compelling piece on why he’s breaking up with Chrome, but while I understood his reasons, I wasn’t quite ready to split. That’s why I was delighted to discover The Great Suspender.
+> *Via [This Chrome extension stopped the browser killing my computer][article-tnw-1]*
 
 [google-chrome]: http://google.com/chrome "Google Chrome web browser"
 [opera]: http://www.opera.com/ "Opera web browser"
