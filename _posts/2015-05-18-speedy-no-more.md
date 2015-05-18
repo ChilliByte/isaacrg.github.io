@@ -4,7 +4,6 @@ title: Speedy no more?
 description: Chrome, tabs and losing your memory.
 published: true
 category:
-  - opinion
   - tech
 ---
 
