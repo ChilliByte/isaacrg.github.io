@@ -16,6 +16,8 @@ For some time now, Chrome has grown a reputation for being a heavy consumer of R
 But the reason I come to writing this, is because I have met a point of great frustration. This happened.
 
 > Last week, my colleague Owen wrote a compelling piece on why he’s breaking up with Chrome, but while I understood his reasons, I wasn’t quite ready to split. That’s why I was delighted to discover The Great Suspender.
+> 
+>
 > *A quote from [this article][article-tnw-1].*
 
 "The Great Suspender" is not some magical fairy feature within chrome which makes it go from RAM monster to fast, efficient browser. It is this:
