@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speedy no more?
-description: Chrome and the challenges of time.
+description: Chrome, tabs and losing your memory.
 published: true
 category:
   - opinion
