@@ -4,7 +4,7 @@ title: About
 published: true
 ---
 
-This is the website of Isaac Reid-Guest, a Developer and Designer, based in the UK.
+I am Isaac Reid-Guest, a Developer and Designer, based in the UK.
 
 ### Various profiles.
 
@@ -22,7 +22,7 @@ This is the website of Isaac Reid-Guest, a Developer and Designer, based in the 
 
 **Misc.**
 
-- I am on [Trello](https://trello.com/isaacrg) virtual whiteboard thingy, as @isaacrg.
+- I am on [Trello](https://trello.com/isaacrg) virtual whiteboard thingy, as @isaacrg. ([refferal link](https://trello.com/isaacrg/recommend))
 - I am also an occasionally active commenter on the [*Guardian*](https://profile.theguardian.com/user/id/11693340) website.
 
 
