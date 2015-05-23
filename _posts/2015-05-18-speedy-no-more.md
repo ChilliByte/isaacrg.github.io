@@ -50,7 +50,7 @@ So, solutions for this problem?
   * This project aims to reduce Chromium's memory consumption, and introducing tab hibernation.
   * This project will eventually result in improvements in  Chromium, Opera, and Google Chrome.
 
-Or you could even go for [Opera 12][op12]. Opera 12 was very, very fast, had tab hibernation, low RAM requirements, and could handle literally hundreds of tabs with no trouble. This might not neccesarily be the most secure, but appraently [isn't affected by heartbleed][op12-heartbleed].
+Or you could even go for [Opera 12][op12]. Opera 12 was very, very fast, had tab hibernation, low RAM requirements, and could handle literally hundreds of tabs with no trouble. This might not neccesarily be the most secure, but apparently [isn't affected by heartbleed][op12-heartbleed].
 
 ----
 
