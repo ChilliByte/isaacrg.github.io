@@ -4,7 +4,7 @@ title: Projects
 published: true
 ---
 
-*I make much more that what is below, my [Github profile](https://github.com/isaacrg) is another good place to look.*
+*I make much more than what is below, my [Github profile](https://github.com/isaacrg) is another good place to look.*
 
 ### PicoKnow
 
