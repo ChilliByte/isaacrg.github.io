@@ -23,7 +23,8 @@ I am Isaac Reid-Guest, a Developer and Designer, based in the UK.
 **Misc.**
 
 - I am on [Trello](https://trello.com/isaacrg) virtual whiteboard thingy, as @isaacrg. ([refferal link](https://trello.com/isaacrg/recommend))
-- I am also an occasionally active commenter on the [*Guardian*](https://profile.theguardian.com/user/id/11693340) website.
+- I am an occasionally active commenter on the [*Guardian*](https://profile.theguardian.com/user/id/11693340) website.
+- I am an occasional commenter on the Ars Technica forums, [here](http://arstechnica.com/civis/memberlist.php?mode=viewprofile&u=348744)(account is required to view profile.).
 
 
 ### The site
