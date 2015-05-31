@@ -1,6 +1,7 @@
 ---
 layout: post 
-title:  "Post to jekyll with a one-page CMS" 
+title:  "Post to jekyll with a one-page CMS"
+description: "The cms-less CMS"
 date:   2015-05-30T10:06:09.991Z 
 ---
 
