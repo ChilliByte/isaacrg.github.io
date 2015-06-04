@@ -6,6 +6,10 @@ description: "An ocassional web outpost of Isaac Reid-Guest."
 baseurl:     ""
 url:         "http://isaacrg.me"
 
+github:
+  repo: isaacrg/isaacrg.github.io
+  branch: master
+
 # Google analytics
 google_analytics: UA-38333068-1
 
