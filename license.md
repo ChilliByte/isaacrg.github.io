@@ -11,7 +11,7 @@ Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed.
 
 
-This LICENSE concerns original material, and not original source code from the Pixyll template. (See [pixyll-LICENSE.md](pixyll-LICENSE.md))
+This LICENSE concerns original material, and not original source code from the Pixyll template. (See [pixyll-LICENSE.txt](pixyll-LICENSE.txt))
 ### Preamble
 
 This license establishes the terms under which a given free software
