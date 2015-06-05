@@ -29,7 +29,7 @@ I am Isaac Reid-Guest, a Developer and Designer, based in the UK.
 
 ### The site
 
-This is freely citable, with a full license detailed [here](license).
+This is freely citable, with a full license detailed [here](/license).
 	
 **The site is on:**
 
