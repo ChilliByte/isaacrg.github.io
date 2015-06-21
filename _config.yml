@@ -13,7 +13,7 @@ github:
 # Google analytics
 google_analytics: UA-38333068-1
 
-#Custom blog path
+# Custom blog path
 permalink: /blog/:year-:month-:day/:title
 
 # Optional features
