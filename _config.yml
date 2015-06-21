@@ -15,6 +15,7 @@ google_analytics: UA-38333068-1
 
 # Custom blog path
 permalink: /blog/:year-:month-:day/:title.html
+paginate_path: "/blog/page-:num/"
 
 # Optional features
 animated:           false
