@@ -59,6 +59,7 @@ defaults:
       type: redirect_urls
     values:
       layout: redirect
+  -
     scope:
       path: ""
       type: "posts"
