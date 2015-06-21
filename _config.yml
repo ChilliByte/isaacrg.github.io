@@ -16,6 +16,13 @@ google_analytics: UA-38333068-1
 # Custom blog path
 permalink: /blog/:year-:month-:day/:title
 
+# custom redirects collection
+
+collections:
+  redirect_urls:
+    output: true
+    permalink: /:path
+
 # Optional features
 animated:           false
 show_related_posts: false
