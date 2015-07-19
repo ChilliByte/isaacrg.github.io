@@ -14,12 +14,6 @@ I am Isaac Reid-Guest, a Developer and Designer, based in the UK.
 - [Bitbucket](http://bitbucket.org/isaacrg)
 - [Codepen](http://codepen.io/isaacrg/)
 
-**Social sites**
-
-- [Twitter](http://twitter.com/isaacreidguest)
-- [Tumblr](http://isaacreidguest.tumblr.com/)
-- <a rel="author" href="https://plus.google.com/+IsaacReidGuest?rel=author">Google+</a>
-
 **Misc.**
 
 - I am on [Trello](https://trello.com/isaacrg) virtual whiteboard thingy, as @isaacrg. ([refferal link](https://trello.com/isaacrg/recommend))
