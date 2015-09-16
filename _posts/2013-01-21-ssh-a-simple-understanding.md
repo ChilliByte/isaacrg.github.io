@@ -1,6 +1,4 @@
----
 title: SSH: A simple understanding
-date: 2013-01-21 10:51
 ---
 
 *This is an old article I wrote as what and where for SSH, as an explainer for people new to the command line.*
