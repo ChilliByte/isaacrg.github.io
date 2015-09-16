@@ -1,7 +1,9 @@
+---
 title: SSH: A simple understanding
 ---
 
-*This is an old article I wrote as what and where for SSH, as an explainer for people new to the command line.*
+
+*This is an old article I wrote as a what and where for SSH, as an explainer for people new to the command line.*
 
 ##SSH?##
  SSH is a remote command-line system, enabling the carrying-out of commands, and use of command-line applications(Like [nano]), remotely. SSH is an incredibly popular and flexible system of controlling servers, accessing intranets, and transferring files.
