@@ -1,5 +1,7 @@
-Title: Static versus Dynamic websites
-Date: 2013-01-23 09:48 
+---
+title: Static versus Dynamic websites
+date: 2013-01-23 09:48 
+---
 
 Static websites, websites where no server-side scripts run, have had a rise in popularity, after years of being abandoned for the more popular way of putting a CMS(Content Management System) on a server, like Drupal, WordPress, or Joomla. Here are some of the Pros and Cons of Each.
 
