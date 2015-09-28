@@ -2,7 +2,7 @@
 title: Goodies
 ---
 
-**The following content contains links which I get finanacial or otherwise incentives for.**
+*The following content contains links providing financial or otherwise incentives for.*
 
 <a name="namecheap"></a>
 
