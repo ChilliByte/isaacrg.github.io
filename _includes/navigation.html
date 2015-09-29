@@ -9,17 +9,17 @@ first_part:                     {{ splitted_url_parts[1] }}
 parts:                          {% for part in splitted_url_parts %}{{ part }} - {% endfor %}
 is_post:                        {{ page.is_post }}
 {% if page.is_post %}
-{% assign page.blogmenu = true %}
+{% assign blogmenu = true %}
 {% elsif splitted_url_parts[1] == "blog" %}
-{% assign page.blogmenu = true %}
+{% assign blogmenu = true %}
 {% else %}
-{% assign page.blogmenu = false %}
+{% assign blogmenu = false %}
 {% endif %}
-blogmenu:                       {{ page.blogmenu }}
+blogmenu:                       {{ blogmenu }}
 -->
 
 
 
 <a {% if page.url == "/" %}class="active"{%endif%} href="{{ site.baseurl }}/">Home</a>
-<a {% if page.blogmenu %}class="active"{%endif%} href="{{ site.baseurl }}/blog/">Blog</a>
+<a {% if blogmenu %}class="active"{%endif%} href="{{ site.baseurl }}/blog/">Blog</a>
 <a {% if splitted_url_parts[1] == "contact" %}class="active"{%endif%} href="{{ site.baseurl }}/contact/">Contact</a>
