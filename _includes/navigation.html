@@ -9,4 +9,5 @@ Current path:    {{ page.url }}
 page_url_without_index_html:    {{ page_url_without_index_html }}
 splitted_url_parts:             {{ splitted_url_parts }}
 first_part:                     {{ splitted_url_parts | first }}
+parts:                          {% for part in splitted_url_parts %}{{ part }} - {% endfor %}
 -->
