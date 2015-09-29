@@ -4,5 +4,9 @@
 <!--
 Parent paths[0]: {{ page.parent_paths }}
 Current path:    {{ page.url }}
-
+{% capture page_url_without_index_html %}{{ page.url | remove: "/index.html" }}{% endcapture %}
+{% assign splitted_url_parts = page_url_without_index_html | split: '/' %}
+page_url_without_index_html:    {{ page_url_without_index_html }}
+splitted_url_parts:             {{ splitted_url_parts }}
+first_part::                    {{ splitted_url_parts | first }}
 -->
