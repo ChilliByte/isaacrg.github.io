@@ -1,8 +1,5 @@
-<a href="{{ site.baseurl }}/">Home</a>
-<a href="{{ site.baseurl }}/blog/">Blog</a>
-<a href="{{ site.baseurl }}/contact/">Contact</a>
 <!--
-Parent paths[0]: {{ page.parent_paths }}
+Parent paths[0]: {{ page.parent_path }}
 Current path:    {{ page.url }}
 {% capture page_url_without_index_html %}{{ page.url | remove: "/index.html" }}{% endcapture %}
 {% assign splitted_url_parts = page_url_without_index_html | split: '/' %}
@@ -11,3 +8,7 @@ splitted_url_parts:             {{ splitted_url_parts }}
 first_part:                     {{ splitted_url_parts[1] }}
 parts:                          {% for part in splitted_url_parts %}{{ part }} - {% endfor %}
 -->
+
+<a href="{{ site.baseurl }}/">Home</a>
+<a href="{{ site.baseurl }}/blog/">Blog</a>
+<a href="{{ site.baseurl }}/contact/">Contact</a>
