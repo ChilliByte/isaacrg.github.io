@@ -7,4 +7,11 @@
 @import "basscss";
 @import "main";
 @import "solarized-light";
-@import "isaacrg-custom";
+
+.button-big {
+  max-width: 100%;
+}
+/* Test */
+.active {
+  text-decoration: underline;
+}
