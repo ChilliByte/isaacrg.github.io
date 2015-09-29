@@ -7,7 +7,7 @@ page_url_without_index_html:    {{ page_url_without_index_html }}
 splitted_url_parts:             {{ splitted_url_parts }}
 first_part:                     {{ splitted_url_parts[1] }}
 parts:                          {% for part in splitted_url_parts %}{{ part }} - {% endfor %}
-is_post:                        {{ page.is_post || false }}
+is_post:                        {{ page.is_post }}
 {% if page.is_post %}
 {% assign blogmenu = true %}
 {% elsif splitted_url_parts[1] == "blog" %}
