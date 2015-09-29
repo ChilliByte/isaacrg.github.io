@@ -4,9 +4,9 @@ title: Contact Me
 permalink: /contact/
 ---
 
-Contact me via email with:
+Email me at:
 
-   isaac [dot] reid [dot] guest [at] gmail [dot] com
+   isaac.reid.guest@gmail.com
    
 or use the form below:
 
