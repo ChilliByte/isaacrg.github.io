@@ -1,7 +1,8 @@
 <header class="site-header px2 px-responsive">
   <div class="mt2 wrap">
     <div class="measure">
-      <a href="/" {% if page.url == "/" %}class="active"{%endif%} class="site-title">{{ site.title }}</a>
+      <!-- PURL: page.url {% if page.url == "/" %}class="active"{% endif %}-->
+      <a href="/" {% if page.url == "/" %}class="active"{% endif %} class="site-title">{{ site.title }}</a>
       <nav class="site-nav right">
         {% include navigation.html %}
       </nav>
