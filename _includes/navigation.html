@@ -20,6 +20,6 @@ blogmenu:                       {{ blogmenu }}
 
 
 
-<a {% if page.url == "/" %}class="active"{%endif%} href="{{ site.baseurl }}/">Home</a>
+<!--<a {% if page.url == "/" %}class="active"{%endif%} href="{{ site.baseurl }}/">Home</a>-->
 <a {% if blogmenu %}class="active"{%endif%} href="{{ site.baseurl }}/blog/">Blog</a>
 <a {% if splitted_url_parts[1] == "contact" %}class="active"{%endif%} href="{{ site.baseurl }}/contact/">Contact</a>
