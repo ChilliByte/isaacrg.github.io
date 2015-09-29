@@ -6,7 +6,7 @@ permalink: /contact/
 
 Email me at:
 
-   isaac.reid.guest@gmail.com
+   `isaac.reid.guest@gmail.com`
    
 or use the form below:
 
